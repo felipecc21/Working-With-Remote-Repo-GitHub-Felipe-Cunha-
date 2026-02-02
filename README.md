@@ -1,1 +1,2 @@
-# Working-With-Remote-Repo-GitHub-Felipe-Cunha-
+.idea
+.vscode
